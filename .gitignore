@@ -1,3 +1,11 @@
+##you can add comments like this 
+
+##you can also ignore files not already included 
+##** is wildcard 
+~$*.doc*
+
+~$*.ppt*
+
 # History files
 .Rhistory
 .Rapp.history
