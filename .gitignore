@@ -3,7 +3,7 @@
 ##you can also ignore files not already included 
 ##** is wildcard 
 ~$*.doc*
-
+~$*.xls*
 ~$*.ppt*
 
 # History files
